@@ -39,7 +39,7 @@ const deletebtn=document.createElement('span')
 
 //textcontent
 
-deletebtn.textContent='delete'
+deletebtn.textContent='done'
 title.textContent=value;
 
 //add classes
